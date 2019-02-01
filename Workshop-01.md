@@ -6,12 +6,6 @@ print("...")
 
 **What is the shortcut to run your app?**
 
-``` swift 
-class Person {
-
-}
-
-```
 
 **What does "IB" mean?**
 
