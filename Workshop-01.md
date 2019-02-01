@@ -6,6 +6,13 @@ print("...")
 
 **What is the shortcut to run your app?**
 
+``` swift 
+class Person {
+
+}
+
+```
+
 **What does "IB" mean?**
 
 **How do you connect things from your storyboard to your code?**
